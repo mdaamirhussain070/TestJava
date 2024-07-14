@@ -3,6 +3,7 @@ package com.abc.java;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class MainClassEmpAdd {
 
@@ -20,6 +21,7 @@ public class MainClassEmpAdd {
 
         List<Employee> employeeList= Arrays.asList(e1,e2,e3,e4);
 
+    employeeList.stream();
 
 
 

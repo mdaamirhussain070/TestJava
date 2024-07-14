@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="844b5e21-db24-427b-bf84-79706a5c4e23" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abc/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abc/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abc/java/MainClassEmpAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abc/java/MainClassEmpAdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +56,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgeOfPersionInYears.executor": "Run",
+    "Application.CharacterCounting.executor": "Run",
+    "Application.CheckStringPalinrome.executor": "Run",
+    "Application.EmpDriverClass.executor": "Run",
+    "Application.FrequencyofEachCharacterInString.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.StaticNonStaticDriverClass.executor": "Run",
+    "Application.WordCountingInList.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/MyWorkSpace/Test/src/com/abc/java",
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
@@ -66,18 +76,84 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.abc.java" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyWorkSpace\Test\src\com\abc\java" />
+      <recent name="E:\MyWorkSpace\Test\src\com\abc" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.FrequencyofEachCharacterInString">
+    <configuration name="CharacterCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abc.java.CharacterCounting" />
       <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abc.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckStringPalinrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abc.java.CheckStringPalinrome" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abc.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpDriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abc.java.EmpDriverClass" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abc.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyofEachCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abc.java.FrequencyofEachCharacterInString" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abc.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountingInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abc.java.WordCountingInList" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abc.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FrequencyofEachCharacterInString" />
+        <item itemvalue="Application.WordCountingInList" />
+        <item itemvalue="Application.EmpDriverClass" />
+        <item itemvalue="Application.CheckStringPalinrome" />
+        <item itemvalue="Application.CharacterCounting" />
       </list>
     </recent_temporary>
   </component>
