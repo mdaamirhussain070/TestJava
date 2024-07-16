@@ -25,8 +25,10 @@ public class FrequencyofEachCharacterInString {
 		}
 
 		Arrays.stream(inputString.toUpperCase().split(" "))
+				.peek(s->System.out.println(s))
 				.collect(Collectors.groupingBy(Function.identity(),Collectors.counting()))
 				.forEach((s,t)->System.out.println(s+"  "+t));
+
 
 
 
